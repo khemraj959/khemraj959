@@ -9,17 +9,21 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: khemraj959
           outputs: dist/snake.svg
 
-      # ✅ NEW ACTION (Node 24 supported)
       - name: Deploy Snake
-        uses: peaceiris/actions-gh-pages@v4
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
+          branch: output
+          folder: dist
