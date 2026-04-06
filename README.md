@@ -8,11 +8,9 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🔧 4+ years experience at Infosys as Senior Systems Engineer  
-- ☁️ Working on AWS, Kubernetes (AKS), Docker & CI/CD  
-- ⚙️ Hands-on with Jenkins & GitHub Actions  
-- 📊 Monitoring using Rancher & Instana  
-- 🤖 Exploring Generative AI & Prompt Engineering  
+- 🔧 Experience in DevOps engineer  
+- ☁️ AWS, Kubernetes (AKS), Docker & CI/CD  
+- ⚙️ Hands-on with Jenkins & GitHub Actions   
 - 💡 Passionate about Automation & Scalable Systems  
 
 ---
@@ -37,7 +35,7 @@
 ## 🔥 GitHub Streak  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=khemraj959&theme=tokyonight" />
 </p>
 
 ---
