@@ -1,16 +1,72 @@
-## Hi there 👋
+# 👋 Hi, I'm Khemraj Saratkar  
 
-<!--
-**khemraj959/khemraj959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=DevOps+Engineer;Cloud+%26+Infrastructure+Specialist;Kubernetes+%7C+AWS+%7C+CI%2FCD;Automation+Enthusiast+%F0%9F%9A%80" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me  
+- 🔧 4+ years experience at Infosys as Senior Systems Engineer  
+- ☁️ Working on AWS, Kubernetes (AKS), Docker & CI/CD  
+- ⚙️ Hands-on with Jenkins & GitHub Actions  
+- 📊 Monitoring using Rancher & Instana  
+- 🤖 Exploring Generative AI & Prompt Engineering  
+- 💡 Passionate about Automation & Scalable Systems  
+
+---
+
+## 🚀 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,gitlab,terraform,ansible,github,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Projects  
+
+### ⚙️ CI/CD Pipeline Automation  
+- Built pipelines using Jenkins & GitHub Actions  
+- Automated build, test & deployment workflows  
+
+### ☁️ AKS Cluster Migration  
+- Migrated workloads to AKS with zero downtime  
+- Configured namespaces & routing  
+
+---
+
+## 📫 Connect With Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/khemraj-saratkar-694b45193">
+    <img src="https://img.shields.io/badge/LinkedIn-Khemraj-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:khemraj959@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## 💡 DevOps Quote  
+
+> “First, solve the problem. Then, automate it.” 🚀
