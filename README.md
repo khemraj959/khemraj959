@@ -66,10 +66,14 @@
 
 ---
 
-## 🐍 Contribution Snake  
+## 📈 Contributions  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khemraj959/khemraj959/output/snake.svg" alt="snake animation"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khemraj959&theme=tokyo-night" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=khemraj959&theme=tokyonight" />
 </p>
 
 ---
