@@ -66,13 +66,6 @@
 
 ---
 
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/khemraj959/khemraj959/output/snake.svg" alt="snake animation"/>
-</p>
-
----
 
 ## 📫 Connect With Me  
 
